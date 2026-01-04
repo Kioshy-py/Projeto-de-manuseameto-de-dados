@@ -47,12 +47,4 @@ Bash
 
     transporte.csv: Base de dados de meios de transporte.
 
-Desenvolvido por [Kioshy]
-
-
----
-
-### Dicas Finais:
-1. **Personalize:** Não esqueça de trocar `SEU-USUARIO` pelo seu nome no GitHub e colocar seu nome/contato no final.
-2. **Imagens:** Se puder, tire um **print da tela** do seu programa funcionando, suba para o GitHub e coloque no README. Isso faz o projeto brilhar!
-3. **Emojis:** Eles tornam a leitura menos cansativa e mais amigável.
+Desenvolvido por Kioshy
