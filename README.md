@@ -25,7 +25,7 @@ Sistema desktop moderno para gerenciamento e cadastro de inventário dividido po
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git](https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git)
+   git clone [https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git](https://github.com/Kioshy-py/Projeto-de-manuseameto-de-dados.git)
 
     Instale as dependências:
     Bash
